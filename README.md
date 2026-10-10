@@ -1,1 +1,1 @@
-Hallo semuanya ini adalah SKRIPSI BACKEND 
+Hallo semuanya ini adalah SKRIPSI FRONTEND
